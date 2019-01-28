@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DocumentScan/VisionViewController.swift"
+            timestampString = "570369101.248034"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "drawVisionRequestResults(results:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DocumentScan.VisionViewController.drawVisionRequestResults(results: Swift.Optional&lt;Swift.Array&lt;__C.VNRectangleObservation&gt;&gt;) -&gt; ()"
+                  moduleName = "DocumentScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vedelberg/gitroot/DocScan/DocumentScan/DocumentScan/VisionViewController.swift"
+                  timestampString = "570365811.3117909"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "828">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.CGPoint) -&gt; __C.CGPoint in DocumentScan.VisionViewController.drawVisionRequestResults(results: Swift.Optional&lt;Swift.Array&lt;__C.VNRectangleObservation&gt;&gt;) -&gt; ()"
+                  moduleName = "DocumentScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vedelberg/gitroot/DocScan/DocumentScan/DocumentScan/VisionViewController.swift"
+                  timestampString = "570365811.313776"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DocumentScan/VisionViewController.swift"
+            timestampString = "570369101.248727"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "178"
+            endingLineNumber = "178"
+            landmarkName = "handleSequenceRequestUpdate(request:error:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in DocumentScan.VisionViewController.handleSequenceRequestUpdate(request: __C.VNRequest, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "DocumentScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vedelberg/gitroot/DocScan/DocumentScan/DocumentScan/VisionViewController.swift"
+                  timestampString = "570365811.46817"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "178"
+                  endingLineNumber = "178"
+                  offsetFromSymbolStart = "872">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.CGPoint) -&gt; __C.CGPoint in closure #1 () -&gt; () in DocumentScan.VisionViewController.handleSequenceRequestUpdate(request: __C.VNRequest, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "DocumentScan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vedelberg/gitroot/DocScan/DocumentScan/DocumentScan/VisionViewController.swift"
+                  timestampString = "570365811.470287"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "178"
+                  endingLineNumber = "178"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
